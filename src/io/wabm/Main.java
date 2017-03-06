@@ -6,6 +6,6 @@ public class Main {
 	    // write your code here
         System.out.println("Do anything you like");
 
-        System.out.println("Hi");
+        System.out.println("H坎坎坷坷i");
     }
 }
